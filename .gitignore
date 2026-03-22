@@ -1,0 +1,4 @@
+*.xlsx
+*.bat
+*.py
+__pycache__/
